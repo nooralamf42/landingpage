@@ -1,0 +1,48 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/vintage-collage-wallpaper-frame-background-wallpaper-mixed-media-art_53876-129915.jpg?w=1380&t=st=1674666109~exp=1674666709~hmac=9dc8403116cb8abd4af121c483859e802ce6b4130d81f6fb46237bf6ca693aab");
+    
+}
+div{
+    border-radius: 20px;
+    width: 400px;
+    margin: 50px auto;
+
+    text-align: center;
+    background-color: rgba(194, 255, 255, 0.829);
+
+}
+
+.div-2{
+    background-color: rgba(163, 255, 224, 0.732);
+}
+
+h3{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box-img{
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0 20px 20px
+}
+
+button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px 25px;
+    border: none;
+    color: white;
+    background-color:black;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}   
